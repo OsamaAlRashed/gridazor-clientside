@@ -1,1 +1,2 @@
-The Client side of Gridazor 
+The Client side of Gridazor, see:
+https://github.com/OsamaAlRashed/Gridazor
